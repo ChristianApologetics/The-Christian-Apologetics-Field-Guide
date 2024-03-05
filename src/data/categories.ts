@@ -4,5 +4,10 @@ export const CATEGORIES = [
 	'Category 2',
 	'Category 3',
 	'Category 4',
-	'Category 5'
+	'Category 5',
+	'Quotes',
+	'C.S. Lewis',
+	'On Guard',
+	'Francis A. Schaeffer',
+	'Apologetics'
 ] as const
