@@ -11,12 +11,8 @@
             "id": "88ad418a1ceecc26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/astro.mdx",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:HTML5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/astro.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/astro.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blog/astro.mdx"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,41 @@
   },
   "active": "88ad418a1ceecc26",
   "lastOpenFiles": [
-    "blog/test.md"
+    "blog/astro.mdx",
+    "blog/astro copy 2.mdx",
+    "blog/Commonplace Book/C.S. Lewis/The Weight of Glory.md",
+    "blog/Commonplace Book/C.S. Lewis/The Problem of Pain.md",
+    "blog/Commonplace Book/C.S. Lewis/The Great Divorce.md",
+    "blog/Commonplace Book/C.S. Lewis/On Forgiveness.md",
+    "blog/Commonplace Book/C.S. Lewis/Miracles.md",
+    "blog/Commonplace Book/C.S. Lewis/Mere Christianity.md",
+    "blog/Commonplace Book/C.S. Lewis/Letters to Malcolm-Chiefly on Prayer.md",
+    "blog/Commonplace Book/On Guard/2. What Difference Does It Make If God Exists.md",
+    "blog/Commonplace Book/Other Christian.md",
+    "blog/Commonplace Book/On Virtues.md",
+    "blog/Commonplace Book/On Trials.md",
+    "blog/Commonplace Book/On Judgement.md",
+    "blog/Commonplace Book/On Inclusion.md",
+    "blog/Commonplace Book/On Forgiveness.md",
+    "blog/Commonplace Book/On Death.md",
+    "blog/Commonplace Book/On Creation.md",
+    "blog/Commonplace Book/On Control.md",
+    "blog/Commonplace Book/On Action.md",
+    "blog/Commonplace Book/On Free Will.md",
+    "blog/Commonplace Book/On Miracles.md",
+    "blog/Commonplace Book/On Sin.md",
+    "blog/Apologetics/Logic.md",
+    "blog/Commonplace Book/On Guard/5. Why is the Universe Fine-Tuned For Life.md",
+    "blog/Apologetics/Philosophy/_Philosophy Books and resources.md",
+    "blog/Apologetics/Philosophy/Stoics.md",
+    "blog/Apologetics/Philosophy",
+    "blog/Apologetics/Fallacies",
+    "blog/Apologetics/Evidence",
+    "blog/Apologetics/Arguments",
+    "blog/Apologetics/Answers to Common Questions",
+    "blog/Apologetics",
+    "blog/New folder",
+    "blog/Commonplace Book/C.S. Lewis",
+    "blog/Commonplace Book/On Guard"
   ]
 }

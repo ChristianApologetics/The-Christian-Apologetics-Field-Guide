@@ -1,0 +1,7 @@
+- Written 20-50 after the death of Jesus
+    - Earliest fragment of gospel, John, 117-138 AD. 30-60 years after the writing of John. 
+- Translations go from Greek to English, Greek to French, etc. Its not Greek to language 1 or language 2 and so on until English.
+- Tests:
+    - 1. Was it written by an apostle or someone who knew an apostle?
+    - 2. Is it Orthodox? i.e. does it agreed with the Torah and the apostolic oral tradition
+    - 3. Was it used by the Churches around the known world, Rome down to Egypt. 

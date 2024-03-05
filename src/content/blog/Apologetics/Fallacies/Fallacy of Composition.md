@@ -1,0 +1,1 @@
+The **fallacy of composition** is the error of assuming that what is true of a member of a group is true for the group as a whole.
