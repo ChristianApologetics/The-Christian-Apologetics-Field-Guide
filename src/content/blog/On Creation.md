@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Creation
+  - CommonplaceBook
 ---
 
 "Ask yourself when you read that narrative, what is the theological point that the author of the Pentateuch is trying to make. For example, clearly in [Genesis] chapter one, the point is that the things of nature, the stars and the planets, the animals and the vegetation, are not gods nor infused with gods. Rather, they are just natural products that are the creation of the transcendent creator of the universe. And so it results in a desacralized view of nature. Nature is not full of gods."

@@ -7,6 +7,7 @@ category: Quotes
 tags:
   - Wisdom
   - Quotes
+  - CommonplaceBook
 ---
 
 Wherever a group, be it large or small, prevents us from standing alone before Christ, wherever such a group raises a claim of immediacy, it must be hated for the sake of Christ. For every immediacy, whether we realize it or not, means hatred of Christ. And this is especially true where such relationships claim the sanction of Christian principles. 

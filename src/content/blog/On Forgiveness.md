@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Forgiveness
+  - CommonplaceBook
 ---
 
 "Henceforth, the disciple will look upon other men as forgiven sinners who owe their lives to the love of God." 

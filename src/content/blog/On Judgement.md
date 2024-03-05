@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Judgement
+  - CommonplaceBook
 ---
 
 "When has anyone, in the entire history of the universe, ever become more like someone else thought they ought to be, simply because that person walked around judging them?"

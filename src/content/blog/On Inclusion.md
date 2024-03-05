@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Inclusion
+  - CommonplaceBook
 ---
 
 "The child who is not embraced by the village will burn it down to feel its warmth."

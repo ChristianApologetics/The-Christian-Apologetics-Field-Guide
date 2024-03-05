@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Virtues
+  - CommonplaceBook
 ---
 
 "...there are those odd people among us who do not accept the local standard, who demonstrate the alarming truth that a quite different behaviour is, in fact, possible. Worse still, there is the fact that these people, even when separated widely in space and time, have a suspicious knack of agreeing with one another in the main—almost as if they were in touch with some larger public opinion outside the pocket. What is common to Zarathustra, Jeremiah, Socrates, Gautama, Christ and Marcus Aurelius, is something pretty substantial."

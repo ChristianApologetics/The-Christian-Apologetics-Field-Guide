@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Trials
+  - CommonplaceBook
 ---
 
 "When sadness or anxiety or loneliness become overwhelming, choose to focus in breathing, let awareness rest in the body, and not unquestionably believe all the thoughts the brain throws at you."

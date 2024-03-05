@@ -7,6 +7,7 @@ category: Quotes
 tags:
   - Wisdom
   - Quotes
+  - CommonplaceBook
 ---
 
 '"There are many rooms in my Father's home, and I am going to prepare a place for you." We westerners might miss this wedding images, but you can bet your sweet chuppah that Jesus' listeners didn't. This was a groom-to-bride promise. Upon receiving the permission of both families, the groom returned to the home of his father and built a home for his bride. He "prepared a place." By promising to do the same for us, Jesus elevates funerals to the same hope level as weddings. From his perspective the trip to the cemetery and the walk down the aisle warrant identical excitement.'

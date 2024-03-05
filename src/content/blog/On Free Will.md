@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - FreeWill
+  - CommonplaceBook
 ---
 
 Had he done as the Master told him, he would soon have come to understand. Obedience is the opener of eyes.

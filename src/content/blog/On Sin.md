@@ -8,6 +8,7 @@ tags:
   - Wisdom
   - Quotes
   - Sin
+  - CommonplaceBook
 ---
 
 "The real trouble is that ‘kindness’ is a quality fatally easy to attribute to ourselves on quite inadequate grounds. Everyone feels benevolent if nothing happens to be annoying him at the moment. Thus a man easily comes to console himself for all his other vices by a conviction that ‘his heart’s in the right place’ and ‘he wouldn’t hurt a fly’, though in fact he has never made the slightest sacrifice for a fellow creature. We think we are kind when we are only happy: it is not so easy, on the same grounds, to imagine oneself temperate, chaste, or humble."
