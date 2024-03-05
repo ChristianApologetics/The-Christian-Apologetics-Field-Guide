@@ -1,1 +1,0 @@
-The **genetic fallacy** is the act of rejecting or accepting an argument on the basis of its origin rather than its content
