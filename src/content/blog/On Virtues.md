@@ -2,7 +2,7 @@
 title: On Virtues
 description: Quotes about virtues
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/kajetan-sumila-F0vrVSaJoaY-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

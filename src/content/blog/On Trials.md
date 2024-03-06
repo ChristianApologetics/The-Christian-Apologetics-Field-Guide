@@ -2,7 +2,7 @@
 title: On Trials
 description: Quotes about trials
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/tomas-sobek-JwTeUr0NO2Q-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

@@ -2,7 +2,7 @@
 title: On Judgement
 description: Quotes about judgement
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

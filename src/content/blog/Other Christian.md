@@ -2,7 +2,7 @@
 title: Other Christian Quotes
 description: Quotes from various authors
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/akira-hojo-_86u_Y0oAaM-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom
