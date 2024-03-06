@@ -8,6 +8,7 @@ tags:
   - CSLewis
   - LetterstoMalcolm
   - CommonplaceBook
+  - Quotes
 ---
 
 "Relying on God has to begin all over again every day as if nothing had yet been done."

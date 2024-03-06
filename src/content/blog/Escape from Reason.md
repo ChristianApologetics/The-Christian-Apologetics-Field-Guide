@@ -8,6 +8,7 @@ tags:
   - FrancisASchaeffer
   - EscapefromReason
   - CommonplaceBook
+  - Quotes
 ---
 
 "The evangelical Christian needs to be careful because some evangelicals have recently been asserting that what matters is not setting out to prove or disprove propositions; what matters is an encounter with Jesus. When a Christian has made such a statement he has, in an analyzed or unanalyzed form, moved upstairs. If we think that we are escaping some of the pressures of the modern debate by playing down propositional Scripture and simply putting the word “Jesus” or “experience” upstairs, we must face this question: What difference is there between doing this and doing what the secular world has done in its semantic mysticism, or what the New Theology has done? At the very least the door has been opened for man to think it is the same thing. Certainly men in the next generation will tend to make it the same thing.

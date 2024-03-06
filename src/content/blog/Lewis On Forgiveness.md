@@ -2,11 +2,12 @@
 title: C.S. Lewis - On Forgiveness
 description: Exerpts from On Forgiveness
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/jacob-bentzinger-mqFKm65fU54-unsplash.jpg
 category: C.S. Lewis
 tags:
   - CSLewis
   - OnForgiveness
+  - Quotes
 ---
 
 "We believe that God forgives us our sins; but also that He will not do so unless we forgive other people their sins against us. There is no doubt about the second part of this statement. It is in the Lord’s Prayer; it was emphatically stated by our Lord. If you don’t forgive you will not be forgiven. No part of His teaching is clearer, and there are no exceptions to it. He doesn’t say that we are to forgive other people’s sins provided they are not too frightful, or provided there are extenuating circumstances, or anything of that sort. We are to forgive them all, however spiteful, however mean, however often they are repeated. If we don’t, we shall be forgiven none of our own."

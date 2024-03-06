@@ -8,6 +8,7 @@ tags:
   - CSLewis
   - Miracles
   - CommonplaceBook
+  - Quotes
 ---
 
 ''It is therefore inaccurate to define a miracle as something that breaks the laws of Nature. It doesn’t. If I knock out my pipe I alter the position of a great many atoms: in the long run, and to an infinitesimal degree, of all the atoms there are. Nature digests or assimilates this event with perfect ease and harmonizes it in a twinkling with all other events. It is one more bit of raw material for the laws to apply to, and they apply. I have simply thrown one event into the general cataract of events and it finds itself at home there and conforms to all other events. If God annihilates or creates or deflects a unit of matter He has created a new situation at that point. Immediately all Nature domiciles this new situation, makes it at home in her realm, adapts all other events to it. It finds itself conforming to all the laws. If God creates a miraculous spermatozoon in the body of a virgin, it does not proceed to break any laws. The laws at once take it over. Nature is ready. Pregnancy follows, according to all the normal laws, and nine months later a child is born."

@@ -8,6 +8,7 @@ tags:
   - CSLewis
   - TheProblemofPain
   - CommonplaceBook
+  - Quotes
 ---
 
 "That God can and does, on occasions, modify the behavior of matter and produce what we call miracles, is part of Christian faith; but the very conception of a common, and therefore stable, world, demands that these occasions should be extremely rare."

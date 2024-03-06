@@ -8,6 +8,7 @@ tags:
   - CSLewis
   - TheWeightofGlory
   - CommonplaceBook
+  - Quotes
 ---
 
 "If value is taken in a worldly sense—if we mean that all men are equally useful or beautiful or good or entertaining—then it is nonsense. If it means that all are of equal value as immortal souls, then I think it conceals a dangerous error. The infinite value of each human soul is not a Christian doctrine. God did not die for man because of some value He perceived in him. The value of each human soul considered simply in itself, out of relation to God, is zero. As St. Paul writes, to have died for valuable men would have been not divine but merely heroic; but God died for sinners. He loved us not because we were lovable, but because He is Love. It may be that He loves all equally—He certainly loved all to the death—and I am not certain what the expression means. If there is equality, it is in His love, not in us."

@@ -8,6 +8,7 @@ tags:
   - CSLewis
   - TheGreatDivorce
   - CommonplaceBook
+  - Quotes
 ---
 
 "The choice of every lost soul can be expressed in the words “Better to reign in Hell than serve in Heaven.” There is always something they insist on keeping even at the price of misery. There is always something they prefer to joy—that is, to reality. Ye see it easily enough in a spoiled child that would sooner miss its play and its supper than say it was sorry and be friends."
