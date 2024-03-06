@@ -9,5 +9,6 @@ export const CATEGORIES = [
 	'C.S. Lewis',
 	'On Guard',
 	'Francis A. Schaeffer',
-	'Apologetics'
+	'Apologetics',
+	'Commonplace Book'
 ] as const

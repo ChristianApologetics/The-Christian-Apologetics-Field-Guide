@@ -3,7 +3,7 @@ title: How (Not) to Read the Bible
 description: Quotes from How (Not) to Read the Bible
 pubDate: 2024-03-06T22:00:00.000Z
 heroImage: ../../assets/images/How_Not_To_Read_The_Bible.jpg
-category: Quotes
+category: Commonplace Book
 tags:
   - Quotes
   - CommonplaceBook
