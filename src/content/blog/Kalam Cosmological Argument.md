@@ -2,7 +2,7 @@
 title: Kalam Cosmological Argument
 description: A Kalam Cosmological Argument Outline from On Guard
 pubDate: 2024-03-06T22:00:00.000Z
-heroImage: ../../assets/images/jacob-bentzinger-mqFKm65fU54-unsplash.jpg
+heroImage: ../../assets/images/nasa-hubble-space-telescope-Yurr2CX1-5g-unsplash.jpg
 category: Apologetics
 tags:
   - Apologetics
