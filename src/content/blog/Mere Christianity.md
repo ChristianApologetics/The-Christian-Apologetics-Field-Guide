@@ -26,8 +26,7 @@ tags:
 "The most dangerous thing you can do is to take any one impulse of your own nature and set it up as the thing you ought to follow at all costs. There is not one of them which will not make us into devils if we set it up as an absolute guide. You might think love of humanity in general was safe, but it is not. If you leave out justice you will find yourself breaking agreements and faking evidence in trials ‘for the sake of humanity’, and become in the end a cruel and treacherous man."
 
 "It may be a great advance in knowledge not to believe in witches; there is no moral advance in not executing them when you do not think they are there."
-- C.S. Lewis - Mere Christianity - Book 1 Chapter 2
-- 
+
 **Book 1 Chapter 4**
 
 "The statement that there is any such thing \[as God\], and the statement that there is no such thing, are neither of them statements that science can make."
