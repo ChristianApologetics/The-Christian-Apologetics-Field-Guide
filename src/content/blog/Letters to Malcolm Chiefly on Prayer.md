@@ -2,7 +2,7 @@
 title: C.S. Lewis - Letters to Malcolm-Chiefly on Prayer
 description: Exerpts from Letters to Malcolm-Chiefly on Prayer
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/maxresdefault.jpg
 category: C.S. Lewis
 tags:
   - CSLewis

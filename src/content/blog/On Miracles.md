@@ -2,7 +2,7 @@
 title: On Miracles
 description: Quotes about miracles
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/pisit-heng-ci1F55HaVWQ-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

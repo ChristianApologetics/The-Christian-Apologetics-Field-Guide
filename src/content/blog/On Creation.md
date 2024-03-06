@@ -2,7 +2,7 @@
 title: On Creation
 description: Quotes about the creation
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/alexander-andrews-eNoeWZkO7Zc-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

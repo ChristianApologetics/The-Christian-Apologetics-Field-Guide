@@ -2,7 +2,7 @@
 title: On Control
 description: Quotes about the dichotomy of control
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

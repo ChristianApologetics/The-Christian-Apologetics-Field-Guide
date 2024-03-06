@@ -2,7 +2,7 @@
 title: On Inclusion
 description: Quotes about inclusion
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/clay-banks-LjqARJaJotc-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

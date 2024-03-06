@@ -2,7 +2,7 @@
 title: On Action
 description: Quotes about forward action
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/kid-circus-7vSlK_9gHWA-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

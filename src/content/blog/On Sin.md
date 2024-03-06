@@ -2,7 +2,7 @@
 title: On Sin
 description: Quotes about sin
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/mahdi-bafande-rimkv_Jc0y8-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

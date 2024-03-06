@@ -2,7 +2,7 @@
 title: On Forgiveness
 description: Quotes about forgiveness
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/jametlene-reskp-Cm8KUxo4ggw-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

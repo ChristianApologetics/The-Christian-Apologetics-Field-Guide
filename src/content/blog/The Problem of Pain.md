@@ -2,7 +2,7 @@
 title: C.S. Lewis - The Problem of Pain
 description: Exerpts from The Problem of Pain
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/nikko-macaspac-6SNbWyFwuhk-unsplash.jpg
 category: C.S. Lewis
 tags:
   - CSLewis

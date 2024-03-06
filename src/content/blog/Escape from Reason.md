@@ -2,7 +2,7 @@
 title: Escape from Reason
 description: Exerpts from Escape from Reason
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/Francis-Schaeffer-560x328.jpg
 category: Francis A. Schaeffer
 tags:
   - FrancisASchaeffer

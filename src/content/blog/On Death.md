@@ -2,7 +2,7 @@
 title: On Death
 description: Quotes about death
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/kelly-sikkema-mY6cga4GgOI-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

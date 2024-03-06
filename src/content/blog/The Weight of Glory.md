@@ -2,7 +2,7 @@
 title: C.S. Lewis - The Weight of Glory
 description: Exerpts from The Weight of Glory
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/aaron-burden-GJZXSzjB_AY-unsplash.jpg
 category: C.S. Lewis
 tags:
   - CSLewis

@@ -2,7 +2,7 @@
 title: On Free Will
 description: Quotes about Free Will
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/oliver-roos-PCNdauVPbjA-unsplash.jpg
 category: Quotes
 tags:
   - Wisdom

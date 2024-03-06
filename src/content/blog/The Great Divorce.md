@@ -2,7 +2,7 @@
 title: C.S. Lewis - The Great Divorce
 description: Exerpts from The Great Divorce
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/scott-umstattd-WerLltoXK1I-unsplash.jpg
 category: C.S. Lewis
 tags:
   - CSLewis

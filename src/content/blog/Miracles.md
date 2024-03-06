@@ -2,7 +2,7 @@
 title: C.S. Lewis - Miracles
 description: Exerpts from Miracles
 pubDate: 2024-03-05T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/alistair-macrobert-UI4lA6hZlQE-unsplash.jpg
 category: C.S. Lewis
 tags:
   - CSLewis

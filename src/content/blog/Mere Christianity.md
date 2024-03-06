@@ -2,7 +2,7 @@
 title: C.S. Lewis - Mere Christianity
 description: Exerpts from Mere Christianity
 pubDate: 2024-03-06T22:00:00.000Z
-heroImage: ../../assets/images/bg.jpg
+heroImage: ../../assets/images/bree-anne-IPGAs3o2ZNU-unsplash.jpg
 category: C.S. Lewis
 tags:
   - CSLewis
